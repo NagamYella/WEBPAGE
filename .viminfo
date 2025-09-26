@@ -15,7 +15,9 @@
 
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1758887558,,"wq!"
+|2,0,1758894932,,"wq!"
+:wq1
+|2,0,1758894930,,"wq1"
 :100
 |2,0,1758887509,,"100"
 :se nu
@@ -63,36 +65,84 @@
 |3,0,9,1,1,0,1758887468,"	#https://NagamYella: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@github.com"
 
 # File marks:
-'0  170  0  ~/.bash_history
-|4,48,170,0,1758887558,"~/.bash_history"
-'1  285  0  ~/.viminfo
-|4,49,285,0,1758887491,"~/.viminfo"
-'2  1  0  ~/.git-credentials
-|4,50,1,0,1758887439,"~/.git-credentials"
-'3  1  0  ~/.git-credentials
-|4,51,1,0,1758886779,"~/.git-credentials"
-'4  41  0  ~/.bash_history
-|4,52,41,0,1758886738,"~/.bash_history"
-'5  41  0  ~/.bash_history
-|4,53,41,0,1758886738,"~/.bash_history"
-'6  100  0  ~/.bash_history
-|4,54,100,0,1758886560,"~/.bash_history"
-'7  100  0  ~/.bash_history
-|4,55,100,0,1758886560,"~/.bash_history"
+'0  2  0  ~/WEBPAGE/one
+|4,48,2,0,1758894932,"~/WEBPAGE/one"
+'1  6  0  ~/WEBPAGE/123
+|4,49,6,0,1758894376,"~/WEBPAGE/123"
+'2  170  0  ~/.bash_history
+|4,50,170,0,1758887558,"~/.bash_history"
+'3  285  0  ~/.viminfo
+|4,51,285,0,1758887491,"~/.viminfo"
+'4  1  0  ~/.git-credentials
+|4,52,1,0,1758887439,"~/.git-credentials"
+'5  1  0  ~/.git-credentials
+|4,53,1,0,1758886779,"~/.git-credentials"
+'6  41  0  ~/.bash_history
+|4,54,41,0,1758886738,"~/.bash_history"
+'7  41  0  ~/.bash_history
+|4,55,41,0,1758886738,"~/.bash_history"
 '8  100  0  ~/.bash_history
 |4,56,100,0,1758886560,"~/.bash_history"
 '9  100  0  ~/.bash_history
 |4,57,100,0,1758886560,"~/.bash_history"
 
 # Jumplist (newest first):
+-'  2  0  ~/WEBPAGE/one
+|4,39,2,0,1758894932,"~/WEBPAGE/one"
+-'  1  0  ~/WEBPAGE/one
+|4,39,1,0,1758894924,"~/WEBPAGE/one"
+-'  6  0  ~/WEBPAGE/123
+|4,39,6,0,1758894376,"~/WEBPAGE/123"
+-'  6  0  ~/WEBPAGE/123
+|4,39,6,0,1758894376,"~/WEBPAGE/123"
+-'  1  0  ~/WEBPAGE/123
+|4,39,1,0,1758894364,"~/WEBPAGE/123"
+-'  1  0  ~/WEBPAGE/123
+|4,39,1,0,1758894364,"~/WEBPAGE/123"
 -'  170  0  ~/.bash_history
 |4,39,170,0,1758887558,"~/.bash_history"
+-'  170  0  ~/.bash_history
+|4,39,170,0,1758887558,"~/.bash_history"
+-'  170  0  ~/.bash_history
+|4,39,170,0,1758887558,"~/.bash_history"
+-'  170  0  ~/.bash_history
+|4,39,170,0,1758887558,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758887500,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758887500,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758887500,"~/.bash_history"
 -'  41  0  ~/.bash_history
 |4,39,41,0,1758887500,"~/.bash_history"
 -'  285  0  ~/.viminfo
 |4,39,285,0,1758887491,"~/.viminfo"
 -'  285  0  ~/.viminfo
 |4,39,285,0,1758887491,"~/.viminfo"
+-'  285  0  ~/.viminfo
+|4,39,285,0,1758887491,"~/.viminfo"
+-'  285  0  ~/.viminfo
+|4,39,285,0,1758887491,"~/.viminfo"
+-'  285  0  ~/.viminfo
+|4,39,285,0,1758887491,"~/.viminfo"
+-'  285  0  ~/.viminfo
+|4,39,285,0,1758887491,"~/.viminfo"
+-'  285  0  ~/.viminfo
+|4,39,285,0,1758887491,"~/.viminfo"
+-'  285  0  ~/.viminfo
+|4,39,285,0,1758887491,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1758887453,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1758887453,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1758887453,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1758887453,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1758887453,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1758887453,"~/.viminfo"
 -'  1  0  ~/.viminfo
 |4,39,1,0,1758887453,"~/.viminfo"
 -'  1  0  ~/.viminfo
@@ -106,6 +156,36 @@
 -'  1  0  ~/.git-credentials
 |4,39,1,0,1758887439,"~/.git-credentials"
 -'  1  0  ~/.git-credentials
+|4,39,1,0,1758887439,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758887439,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758887439,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758887439,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758887439,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758887439,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758887439,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758887439,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758887439,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758887439,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758887439,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758887439,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758886779,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758886779,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758886779,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
 |4,39,1,0,1758886779,"~/.git-credentials"
 -'  1  0  ~/.git-credentials
 |4,39,1,0,1758886779,"~/.git-credentials"
@@ -113,6 +193,72 @@
 |4,39,1,0,1758886779,"~/.git-credentials"
 -'  1  0  ~/.git-credentials
 |4,39,1,0,1758886779,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758886779,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758886779,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758886779,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758886779,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758886779,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758886779,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758886779,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758886779,"~/.git-credentials"
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1758886779,"~/.git-credentials"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
+-'  41  0  ~/.bash_history
+|4,39,41,0,1758886738,"~/.bash_history"
 -'  41  0  ~/.bash_history
 |4,39,41,0,1758886738,"~/.bash_history"
 -'  41  0  ~/.bash_history
@@ -141,152 +287,22 @@
 |4,39,100,0,1758886703,"~/.bash_history"
 -'  100  0  ~/.bash_history
 |4,39,100,0,1758886703,"~/.bash_history"
--'  100  0  ~/.bash_history
-|4,39,100,0,1758886703,"~/.bash_history"
--'  100  0  ~/.bash_history
-|4,39,100,0,1758886703,"~/.bash_history"
--'  100  0  ~/.bash_history
-|4,39,100,0,1758886703,"~/.bash_history"
--'  100  0  ~/.bash_history
-|4,39,100,0,1758886560,"~/.bash_history"
--'  100  0  ~/.bash_history
-|4,39,100,0,1758886560,"~/.bash_history"
--'  100  0  ~/.bash_history
-|4,39,100,0,1758886560,"~/.bash_history"
--'  100  0  ~/.bash_history
-|4,39,100,0,1758886560,"~/.bash_history"
--'  100  0  ~/.bash_history
-|4,39,100,0,1758886560,"~/.bash_history"
--'  100  0  ~/.bash_history
-|4,39,100,0,1758886560,"~/.bash_history"
--'  100  0  ~/.bash_history
-|4,39,100,0,1758886560,"~/.bash_history"
--'  100  0  ~/.bash_history
-|4,39,100,0,1758886560,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1758886545,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1758886545,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1758886545,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1758886545,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1758886545,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1758886545,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1758886545,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1758886545,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1758886545,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1758886545,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1758886545,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1758886545,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1758886545,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1758886545,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1758886545,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1758886545,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1758886545,"~/.bash_history"
--'  1  0  ~/.git-credentials
-|4,39,1,0,1758886523,"~/.git-credentials"
--'  1  0  ~/.git-credentials
-|4,39,1,0,1758886523,"~/.git-credentials"
--'  1  0  ~/.git-credentials
-|4,39,1,0,1758886523,"~/.git-credentials"
--'  1  0  ~/.git-credentials
-|4,39,1,0,1758886523,"~/.git-credentials"
--'  1  0  ~/.git-credentials
-|4,39,1,0,1758886523,"~/.git-credentials"
--'  1  0  ~/.git-credentials
-|4,39,1,0,1758886523,"~/.git-credentials"
--'  1  0  ~/.git-credentials
-|4,39,1,0,1758886523,"~/.git-credentials"
--'  1  0  ~/.git-credentials
-|4,39,1,0,1758886523,"~/.git-credentials"
--'  1  0  ~/.git-credentials
-|4,39,1,0,1758886523,"~/.git-credentials"
--'  1  0  ~/.git-credentials
-|4,39,1,0,1758886523,"~/.git-credentials"
--'  1  0  ~/.git-credentials
-|4,39,1,0,1758886523,"~/.git-credentials"
--'  1  0  ~/.git-credentials
-|4,39,1,0,1758886523,"~/.git-credentials"
--'  1  0  ~/.git-credentials
-|4,39,1,0,1758886523,"~/.git-credentials"
--'  1  0  ~/.git-credentials
-|4,39,1,0,1758886523,"~/.git-credentials"
--'  1  0  ~/.git-credentials
-|4,39,1,0,1758886523,"~/.git-credentials"
--'  1  0  ~/.git-credentials
-|4,39,1,0,1758886523,"~/.git-credentials"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
--'  4  1  ~/.gitconfig
-|4,39,4,1,1758883693,"~/.gitconfig"
 
 # History of marks within files (newest to oldest):
+
+> ~/WEBPAGE/one
+	*	1758894928	0
+	"	2	0
+	^	2	0
+	.	1	7
+	+	1	7
+
+> ~/WEBPAGE/123
+	*	1758894374	0
+	"	6	0
+	^	6	0
+	.	5	10
+	+	5	10
 
 > ~/.bash_history
 	*	1758887555	0
